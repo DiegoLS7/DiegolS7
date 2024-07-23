@@ -3,7 +3,7 @@
 
 <!-- Presentación -->
 <h1>Hola, soy Diego!</h1>
-<p>Soy un desarrollador en busqueda de seguir ganando experiencia en varios stacks de programación. Me encanta aprender y seguir el ritmo con las nuevas tecnologias de la industria</p>
+<p>Soy ingeniero en informatica actualmente tengo 22 años, estoy en busqueda de seguir ganando experiencia en varios stacks de programación. Me encanta aprender y seguir el ritmo con las nuevas tecnologias de la industria, me interesa integrarme en la industria de el desarrollo y el analisis de datos </p>
 
 <!-- Formación académica -->
 <h2>Formación Académica</h2>
