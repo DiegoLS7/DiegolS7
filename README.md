@@ -3,26 +3,26 @@
 
 <!-- Presentación -->
 <h1>Hola, soy Diego!</h1>
-<p>Soy un desarrollador apasionado con experiencia en varios stacks de programación. Me encanta aprender y compartir conocimientos con la comunidad.</p>
+<p>Soy un desarrollador en busqueda de seguir ganando experiencia en varios stacks de programación. Me encanta aprender y seguir el ritmo con las nuevas tecnologias de la industria</p>
 
 <!-- Formación académica -->
 <h2>Formación Académica</h2>
 <ul>
-  <li><strong>Ingeniería en Sistemas</strong> en Universidad de Ejemplo</li>
-  <li><strong>Maestría en Ciencias de la Computación</strong> en Universidad de Ejemplo</li>
+  <li><strong>Ingeniería en Informatica</strong> en Duoc Uc</li>
 </ul>
 
 <!-- Stacks de Programación -->
 <h2>Stacks de Programación</h2>
 <p>Estos son algunos de los stacks de programación con los que trabajo:</p>
 <ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
-  <li><strong>Backend:</strong> Node.js, Express, Django</li>
-  <li><strong>Bases de Datos:</strong> MySQL, MongoDB</li>
-  <li><strong>Otros:</strong> Git, Docker, Kubernetes</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React, Tailwind, Bootstrap,</li>
+  <li><strong>Backend:</strong> Node.js, NestJS, Django, FireBase</li>
+  <li><strong>Lenguajes de Programación:</strong> JavaScript, Python, Java, C#, aspx.net, Kotlin</li>
+  <li><strong>Bases de Datos:</strong> MySQL, Oracle SQL Server, PostgreSql, Microsoft Management Studio</li>
+  <li><strong>Otros:</strong> Git, Docker, Laragon, Power Bi</li>
 </ul>
 
 <!-- Contacto -->
 <h2>Contacto</h2>
-<p>Puedes contactarme en <a href="mailto:diego@example.com">diego@example.com</a> o seguirme en <a href="https://github.com/diego">GitHub</a>.</p>
+<p>Puedes contactarme en <a href="mailto:Diegoleonsandoval@gmail.com">Diegoleonsandoval@gmail.com</a> o seguirme en <a href="https://github.com/DiegoLS7">GitHub</a>.</p>
 
