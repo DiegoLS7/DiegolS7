@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://imgur.com/8Z1wXKR" alt="Banner" width="100%">
+<img src="https://i.imgur.com/8Z1wXKR.png" alt="Banner" width="100%">
 
 <!-- Presentación -->
 <h1>Hola, soy Diego!</h1>
